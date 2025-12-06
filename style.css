@@ -6,6 +6,9 @@
 }
 
 body {
+  transform: scale(0.8);
+  transform-origin: top center;
+  width: 125%;
   font-family: 'Poppins', sans-serif;
   background: #0f172a; /* Dark modern background */
   color: #fff;
@@ -781,3 +784,4 @@ footer {
     justify-content: center;
   }
 } */
+
