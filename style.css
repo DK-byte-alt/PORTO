@@ -6,6 +6,7 @@
 }
 
 body {
+  zoom: 0.8;
   font-family: 'Poppins', sans-serif;
   background: #0f172a; /* Dark modern background */
   color: #fff;
@@ -781,5 +782,6 @@ footer {
     justify-content: center;
   }
 } */
+
 
 
